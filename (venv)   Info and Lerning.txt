@@ -1,0 +1,37 @@
+Create Virtual environment
+
+1) python -m venv (name of your venv)
+
+
+
+2) (name of your venv)\Scripts\actevate
+
+
+3) you shoud update everytime:
+   	python.ext -m pip install --upgrade pip
+
+
+4) install some important packages:
+    	1. pip install numpy
+	2. pip install scikit-image
+
+
+#if you want exit of your venv :
+insert(deavtivate)
+
+
+
+
+
+
+#if you want get status :
+insert(pip list)
+
+
+#if you want get requiremants:
+insert(pip freeze)
+
+
+#if you want have (requiremants):
+insert(pip freeze > name.txt)
+*example:requirements.txt*
